@@ -12,7 +12,9 @@
   "dependencies": {
     "hogan.js": "~3.0.2",
     "node-gettext": "~0.2.14",
-    "nodeunit": "~0.9.0",
     "walkdir": "0.0.7"
+  },
+  "devDependencies": {
+    "nodeunit": "~0.9.0"
   }
 }
